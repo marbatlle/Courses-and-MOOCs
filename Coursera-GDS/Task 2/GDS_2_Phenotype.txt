@@ -1,0 +1,1 @@
+Sample	Type	Isolate	Age	RIN	Sex		SRR1554537	Fetal	R3452	-0.3836	9.6	female		SRR1554538	Fetal	R3462	-0.4027	6.4	female		SRR1554541	Fetal	R3485	-0.3836	5.7	male		SRR1554536	Adult	R3098	44.17	5.3	female		SRR1554535	Adult	R2869	41.58	8.7	male		SRR1554539	Adult	R3467	36.5	9	female		
