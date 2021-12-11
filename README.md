@@ -12,6 +12,8 @@ In this course you learn how clinical data are generated, the format of these da
 
 This specialization includes the following courses; Introduction to Genomic Technoligies, Genomic Data Science with Galaxy, Python for Genomic Data Science, Algorithms for DNA Sequencing, Command Line Tools for Genomic Data Science, Bioconductor for Genomic Data Science, Statistics for Genomic Data Science.
 
+[*See projects*](https://github.com/marbatlle/Courses_MOOCs/tree/main/Coursera-GDS)
+
 ### [Data Scientist with R Track](https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals)
 **[DataCamp](https://www.datacamp.com/) - April 2020 to Jul 2020**
 
